@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import NavbarStyleApple from '@/components/navbar/NavbarStyleApple/NavbarStyleApple';
@@ -44,7 +44,7 @@ export default function F1ElitePage() {
           logoText="F1 ELITE"
           description="Experience the pinnacle of motorsport engineering. Discover the cutting-edge performance machines that dominate the world's most prestigious racing competition."
           buttons={[
-            { text: "Explore Models", href: "#models" },
+            { text: "Explore Models", href: "https://www.linkedin.com" },
             { text: "Learn More", href: "#performance" }
           ]}
           layoutOrder="default"
