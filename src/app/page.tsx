@@ -280,7 +280,7 @@ export default function F1ElitePage() {
           ]}
           ctaTitle="Interested in F1 Elite?"
           ctaDescription="Get in touch with our team to discuss your racing ambitions and explore partnership opportunities."
-          ctaButton={{ text: "Contact Us", href: "mailto:hello@f1elite.com" }}
+          ctaButton={{ text: "Contact Us", href: "https://www.instagram.com" }}
           ctaIcon={MessageSquare}
           useInvertedBackground="noInvert"
           animationType="slide-up"
